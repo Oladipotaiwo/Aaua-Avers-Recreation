@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(36, 121, 218);
+}
+
+.image{
+margin-left: 310px;
+max-width: 110px;
+margin-top: 60px;
+}
+
+.student{
+    margin-left: 560px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: aliceblue;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Matric-number{
+    margin-left: 490px;
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-left: 150px;
+    padding-right: 70px;
+}
+
+.Password{
+    margin-left: 490px;
+    padding: 10px;
+    padding-left: 150px;
+    padding-right: 70px;
+}
+
+.paragraph{
+    padding-left: 540px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    color: aliceblue;
+}
+
+.sign-in{
+    padding-left: 490px;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.sign-in button{
+   background-color: rgb(238, 27, 12);
+   padding-left: 165px;
+   padding-right: 170px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   font-size: 17px;
+   font-weight: bold;
+   color: aliceblue;
+}
+.sign-in  :hover{
+    background-color:rgb(36, 121, 218);
+    color: #621ed5;
+    transition: color 100ms ease-out;
+    transition: color 100ms ease-out;
+    color:rgb(36, 121, 218); 
+}
+
+.buttons{
+    padding-left: 500px;
+}
+.phone-img{
+    max-width: 120px;
+}
+.STAFF-SECTION{
+    padding: 9px;
+    background-color: rgba(128, 128, 128, 0.959);
+    color: aliceblue;
+    font-size: 12px;
+    border: none;
+}
+
+.buttons img{
+    max-width: 20px;
+    margin-top: 9px;
+}
+#button{
+    background-color: rgb(98, 144, 228);
+    padding-bottom: 10px;
+    padding-top: 0.7px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+}
+
+.link{
+    padding-left: 600px;
+    margin-bottom: 25px;
+}
+.footer{
+    padding-left: 550px;
+    font-style: italic;
+    font-size: 15px ;
+    color: aliceblue;
+}
